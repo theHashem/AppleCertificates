@@ -1,5 +1,6 @@
 # AppleCr
-Anleitung für Apple Zertifikate 
+Anleitung zur Erstellung von Apple-Zertifikaten
+
 
 ### Auf dem Mac
 1. Öffne die Keychain "Schlüsselbundverwaltung".
